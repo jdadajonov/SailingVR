@@ -1,0 +1,19 @@
+# ninja log v5
+1259	1377	1777043525361703163	/Users/jdadajonov/SailingVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4o13692q/obj/arm64-v8a/libgame.so	746d899d148c0c31
+0	1258	1777043525242461751	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	10364a129ccc1038
+1	1155	1777043525139220743	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d22a5a14af55d528
+2	1035	1777043525019108159	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	81510373b8579b18
+1	1000	1777043524983020700	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	26c9b1fd71d86ea0
+2	944	1777043524927701775	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c0eb257d343e8ded
+1	948	1777043524932925061	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1f7f8517cd76d07a
+1	915	1777043524896099805	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e422fee6f6ec7471
+1	911	1777043524893370370	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c4e996a26db0a08d
+4	1272	1777044690201466631	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e422fee6f6ec7471
+4	1274	1777044690198982495	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c4e996a26db0a08d
+4	1277	1777044690206790822	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1f7f8517cd76d07a
+5	1285	1777044690214772359	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c0eb257d343e8ded
+4	1304	1777044690234470408	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	26c9b1fd71d86ea0
+5	1352	1777044690282569962	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	81510373b8579b18
+4	1483	1777044690412901228	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d22a5a14af55d528
+3	1567	1777044690497296824	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	10364a129ccc1038
+1567	1772	1777044690703122645	/Users/jdadajonov/SailingVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4o13692q/obj/arm64-v8a/libgame.so	746d899d148c0c31
