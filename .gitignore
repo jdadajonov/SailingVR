@@ -77,3 +77,8 @@ Thumbs.db
 # IDE
 .idea/
 .vscode/
+
+# Unity build artifacts (local only, do not ship)
+testBuild_BackUpThisFolder_ButDontShipItWithYourGame/
+SailingVR_BurstDebugInformation_DoNotShip/
+.utmp/
